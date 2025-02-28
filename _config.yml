@@ -1,4 +1,21 @@
-title: Chikadibia Ezeh
-theme: jekyll-theme-minimal # You can choose any theme you like
-logo: workprofile.png
+title: Your Site Title
+
+theme: jekyll-theme-minimal
+
+author:
+  name: Chikadibia Ezeh
+  email: e_chikadibia@outlook.com
+
+logo: /assets/images/workprofile.png
+
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
