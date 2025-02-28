@@ -1,1 +1,4 @@
-
+theme: jekyll-theme-cayman # You can choose any theme you like
+title: "Your GitHub Profile Title"
+profile_picture: "https://link-to-your-profile-picture.jpg"
+cover_picture: "https://link-to-your-cover-picture.jpg"
