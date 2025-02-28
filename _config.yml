@@ -15,3 +15,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
+  # Footer customization
+footer:
+  show_credits: false
+
