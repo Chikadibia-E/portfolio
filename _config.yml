@@ -2,9 +2,6 @@ title: Your Site Title
 
 theme: jekyll-theme-minimal
 
-logo: workprofile.png
-
-
 # Exclude from processing
 exclude:
   - Gemfile
