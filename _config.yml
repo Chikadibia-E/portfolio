@@ -2,11 +2,7 @@ title: Your Site Title
 
 theme: jekyll-theme-minimal
 
-author:
-  name: Chikadibia Ezeh
-  email: e_chikadibia@outlook.com
-
-logo: /assets/images/workprofile.png
+logo: workprofile.png
 
 
 # Exclude from processing
